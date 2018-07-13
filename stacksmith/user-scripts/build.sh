@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "build process executed"
+echo "this is an experimental build process"
