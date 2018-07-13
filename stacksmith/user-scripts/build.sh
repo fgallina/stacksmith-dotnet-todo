@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "this is an experimental build process"
+echo "this the fixed experimental build process"
